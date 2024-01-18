@@ -12,8 +12,8 @@ python3 ddos.py
 
 to install (termmux)
 ```
-apt install git
-apt install python
+pkg install git
+pkg install python3
 ```
 
 to install (kali linux)
