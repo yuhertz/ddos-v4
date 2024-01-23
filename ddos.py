@@ -9,7 +9,7 @@ os.system('clear')
 print("""
     \033[32;1m                             
                              
-  ROCOTAI ARTIFICIAL INTELLIGENCE DDOS ATTACK VERSION 4
+  			           DDOS ATTACK VERSION 4
               		     \033[33;1m Made by Hertz
                
 """)
